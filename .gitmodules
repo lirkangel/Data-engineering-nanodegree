@@ -1,0 +1,3 @@
+[submodule "data_warehouse"]
+	path = data_warehouse
+	url = https://github.com/lirkangel/udacity_cassandra
